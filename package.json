@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "ready.db": "^1.0.1"
+  },
+  "name": "pythonic",
+  "version": "1.0.0",
+  "description": "pythonic tarafından yapıldı - çalma ananı... | discord.gg/javascript",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pythonic",
+  "license": "MIT"
+}
